@@ -11,4 +11,4 @@ Para volver a ver el evento haz click en la imagen:
  
   
 ## Recursos 
-- Para ver los slides de la charla de Maria José sigue este [enlace.](slides)
+- Para ver los slides de la charla de Maria José sigue este [enlace.](slides.md)
